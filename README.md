@@ -19,7 +19,7 @@ Installation
 Clone this repository:
 
 bash
-git clone https://github.com/YOUR-USERNAME/NOVA.git
+git clone https://github.com/Abhi8024/Nova-Ai-assistant.git
 
 Install dependencies:
 bash
